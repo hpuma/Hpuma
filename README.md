@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Henry!</h1>
+<h1 align="center" style="border-bottom:0">Hi 👋, I'm Henry!</h1>
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=006AFF&center=true&vCenter=true&lines=Computer+Scientist;Software+Engineer;Lifelong+learner"></a>
 </p>
 
 
+
 ## 👨‍💻 About Me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" height=170px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" height=150px></picture>
 <pre>
 - 🔎 Interested in Software Engineer roles with a focus on Backend development
-- 📚 Currently learning **UI/UX Concepts** with CUNY Queensborough Community College
+- 📚 Currently learning UI/UX Concepts with CUNY Queensborough Community College
 - 🧠 Always self improving on <a href="https://www.coursera.org/account-profile">Coursera</a> or <a href="https://www.cloudskillsboost.google/public_profiles/dba3a435-72ee-4d75-9e3e-a760726285de">Google Cloud Skills Boost</a>
 - ⚡ Fun fact, **I've obtained 2 cloud certifications this year!**
 - 🏃🏾‍♂️ In my free time, I'm lifting heavy, playing football, or 
@@ -16,6 +17,7 @@
 </pre>
 ## 📊 Github Stats
 ![followers](https://img.shields.io/github/followers/hpuma?style=social) ![stars](https://img.shields.io/github/stars/hpuma?style=social)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpuma&layout=compact&title_color=006AFF&icon_color=FF0000&bg_color=000000&text_color=006AFF">
 
 ## 🛠 Tech Stack
