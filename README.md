@@ -1,6 +1,4 @@
-<h1 align="center" style="border-bottom:0">Hi 👋, I'm Henry! I'm a<img align="center" src="https://readme-typing-svg.herokuapp.com?color=006AFF&center=true&vCenter=true&lines=Computer+Scientist;Software+Engineer;Lifelong+learner"></h1>
-
-## 👨‍💻 About Me
+<h1 align="left" style="border-bottom:0">Hi 👋, I'm Henry! I'm a<img align="center" src="https://readme-typing-svg.herokuapp.com?color=006AFF&center=true&vCenter=true&lines=Computer+Scientist;Software+Engineer;Lifelong+learner"></h1>
 
 <pre>
 - 🔎 Interested in Software Engineer roles with a focus on Backend development
@@ -85,5 +83,3 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
