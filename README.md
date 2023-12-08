@@ -3,8 +3,6 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=006AFF&center=true&vCenter=true&lines=Computer+Scientist;Software+Engineer;Lifelong+learner"></a>
 </p>
 
-
-
 ## 👨‍💻 About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" height=150px></picture>
 <pre>
@@ -49,7 +47,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🧪 Testing
+##### 🧪 Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ##### ☁️ Hosting/SaaS
