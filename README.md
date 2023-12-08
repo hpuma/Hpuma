@@ -1,21 +1,26 @@
-<h1 align="center">Hi 👋, I'm Henry!</h1>
-<h4 align="center">A lifelong learner with a passion for digital technologies</h3>
+<h1 align="center" style="border-bottom:0">Hi 👋, I'm Henry!</h1>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=006AFF&center=true&vCenter=true&lines=Computer+Scientist;Software+Engineer;Lifelong+learner"></a>
+</p>
 
-
+---
 
 ## 👨‍💻 About Me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" height=150px></picture>
+<pre>
 - 🔎 Interested in Software Engineer roles with a focus on Backend development
 - 📚 Currently learning **UI/UX Concepts** with CUNY Queensborough Community College
-- 🧠 Always learning on <a href="https://www.coursera.org/account-profile">Coursera</a> or <a href="https://www.cloudskillsboost.google/public_profiles/dba3a435-72ee-4d75-9e3e-a760726285de">Google Cloud Skills Boost</a>
+- 🧠 Always self improving on <a href="https://www.coursera.org/account-profile">Coursera</a> or <a href="https://www.cloudskillsboost.google/public_profiles/dba3a435-72ee-4d75-9e3e-a760726285de">Google Cloud Skills Boost</a>
 - ⚡ Fun fact, **I've obtained 2 cloud certifications this year!**
-- 🏃🏾‍♂️ During my free time, I'm either lifting heavy, playing football, or attending in-person tech events in NYC
-
+- 🏃🏾‍♂️ In my free time, I'm lifting heavy, playing football, or 
+  at in-person tech events in NYC
+</pre>
 ## 📊 Github Stats
 ![followers](https://img.shields.io/github/followers/hpuma?style=social) ![stars](https://img.shields.io/github/stars/hpuma?style=social)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpuma&layout=compact&title_color=006AFF&icon_color=FF0000&bg_color=000000&text_color=006AFF">
 
-## 🛠 Tech Stack 🛠
+## 🛠 Tech Stack
 ##### 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
