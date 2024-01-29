@@ -11,11 +11,9 @@
 ## 📊 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hpuma&repo=equest-explorer-backend-v2)](https://github.com/hpuma/equest-explorer-backend-v2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hpuma&repo=equestrian-explorer-web-v2)](https://github.com/hpuma/equestrian-explorer-web-v2)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hpuma&repo=news-ingestion)](https://github.com/hpuma/news-ingestion)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hpuma&repo=global-coffee-trade-historical-data)](https://github.com/hpuma/global-coffee-trade-historical-data)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hpuma&repo=CNN_CIFAR_FINAL)](https://github.com/hpuma/CNN_CIFAR_FINAL)
-
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hpuma&text_color=006aff&bg_color=0a0c10&hide_border=true&hide=jupyter%20notebook,makefile,cmake,m4&layout=compact)
 
 ## 🛠 Tech Stack
