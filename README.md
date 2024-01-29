@@ -8,7 +8,7 @@
 - 🏃🏾‍♂️ In my free time, I'm lifting heavy, playing football, or attending in-person tech events throughout NYC
 </pre>
 
-## 📊 Github Stats
+## 📊 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hpuma&repo=equest-explorer-backend-v2)](https://github.com/hpuma/equest-explorer-backend-v2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hpuma&repo=equestrian-explorer-web-v2)](https://github.com/hpuma/equestrian-explorer-web-v2)
 
