@@ -1,9 +1,6 @@
-<h1 align="left" style="border-bottom:0">Hi 👋, I'm Henry! I'm a<img align="center" src="https://readme-typing-svg.herokuapp.com?color=006AFF&center=true&vCenter=true&lines=Computer+Scientist;Software+Engineer;Lifelong+learner"></h1>
-
 <pre>
-- 🔎 Interested in Software Engineer roles with a focus on Backend development
+- 🔎 Interested in Software Engineer roles with a focus on Web Development
 - 🧠 Always self improving on <a href="https://www.coursera.org/account-profile">Coursera</a> or <a href="https://www.cloudskillsboost.google/public_profiles/dba3a435-72ee-4d75-9e3e-a760726285de">Google Cloud Skills Boost</a>
-- ⚡ Fun fact, I've obtained 2 cloud certifications this year!
 - 🏃🏾‍♂️ In my free time, I'm lifting heavy, playing football, or attending in-person tech events throughout NYC
 </pre>
 
