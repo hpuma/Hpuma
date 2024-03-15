@@ -1,5 +1,5 @@
 <pre>
-- 🔎 Interested in Software Engineer roles with a focus on Web Development
+- 🔎 Interested in Software Engineer roles with significant experience in backend development and emerging fullstack development
 - 🧠 Always self improving on <a href="https://www.coursera.org/account-profile">Coursera</a> or <a href="https://www.cloudskillsboost.google/public_profiles/dba3a435-72ee-4d75-9e3e-a760726285de">Google Cloud Skills Boost</a>
 - 🏃🏾‍♂️ In my free time, I'm lifting heavy, playing football, or attending in-person tech events throughout NYC
 </pre>
