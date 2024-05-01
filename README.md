@@ -2,7 +2,7 @@
 - 🔎 Interested in Software Engineer roles with significant experience in backend development and emerging fullstack development
 - 🧠 Always self improving on <a href="https://www.coursera.org/account-profile">Coursera</a> or <a href="https://www.cloudskillsboost.google/public_profiles/dba3a435-72ee-4d75-9e3e-a760726285de">Google Cloud Skills Boost</a>
 - 🏃🏾‍♂️ In my free time, I'm coding, reading, or playing soccer
-
+</pre>
 ## 📊 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hpuma&repo=equest-explorer-backend-v2)](https://github.com/hpuma/equest-explorer-backend-v2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hpuma&repo=equestrian-explorer-web-v2)](https://github.com/hpuma/equestrian-explorer-web-v2)
